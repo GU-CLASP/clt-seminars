@@ -1,0 +1,7 @@
+theme: minima
+title: "Centre for Language Technology (CLT) Seminars"
+author: "Simon Dobnik"
+description: " "
+header_pages:
+  - path: index.md
+  - path: organisers.md
